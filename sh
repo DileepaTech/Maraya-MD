@@ -1,8 +1,8 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg">
-    <h1 align="center">GURU-BOT</h1>
+    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg"
+    <h1 align="center">GURU-BOT</h1
   </a>
 </p>
 <p align="center">
@@ -18,7 +18,7 @@
 ####  
 GURU-BOT- Simple Multi Device whatsapp bot.
 
-***
+**
 
 #### SETUP
 
@@ -33,7 +33,7 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 #### DEPLOY TO COOLIFY (Error occurs when server gets overloaded)
 
 1. If You don't have a account in Coolify. Create a account.
-    <br>
+    <br
 <p align="center"><a href="http://65.21.52.72:3000/register"> <img src="https://img.shields.io/badge/coolify%20Account-blue?style=for-the-badge&logo=coolify" width="220" height="38.45"/></a></p>
 
 2. Now Deploy
@@ -42,14 +42,13 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 
 #### DEPLOY TO CLEVER CLOUD
 
-1. If You don't have a account in Clever cloud. Create a account.
+1. If You don't have a account in Clever cloud. Create a account
     <br>
 <p align="center"><a href="https://www.clever-cloud.com"> <img src="https://img.shields.io/badge/clever cloud%20Account-blue?style=for-the-badge&logo=clever cloud" width="220" height="38.45"/></a></p>
 
 2. Now Deploy
     <br>
-<p align="center"><a href="https://youtu.be/XrK-hrfBQY4"> <img src="https://img.shields.io/badge/Clever cloud%20Deploy-blue?style=for-the-badge&logo=clever cloud" width="220" height="38.45"/></a></p>
-
+<p align="center"><a href="https://youtu.be/XrK-hrfBQY4"> <img src="https://img.shields.io/badge/Clever cloud%20Deploy-blue?tyle=for-the-badge&logo=clever cloud" width="220" height="38.45"/></a></p>
 
 
 #### DEPLOY TO RENDER (change Guru322 with your git username in line 41)
